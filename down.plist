@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>步骤2.1的https下载地址</string>
+                    <string>https://github.com/xsandgithub/app/blob/94444586d940290e1264270374fceb428ec6849a/ant.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>你的app包名</string>
+                <string>com.ant</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>你的app名称，下载安装时会弹窗展示</string>
+                <string>蚂蚁IM</string>
             </dict>
         </dict>
     </array>
